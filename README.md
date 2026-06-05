@@ -38,11 +38,11 @@ Tech Stack: React.js, TypeScript, Node.js, Express.js, MongoDB, OpenAI Whisper, 
 
 **Key Features**
 
-🎙️ Real-time Speech-to-Text Transcription
-🤖 AI-powered Automatic Question Generation
-📄 Multi-format Processing (Voice, Text & PDF)
-👨‍🏫 Teacher Dashboard & Student Portal
-📊 Classroom Participation Tracking
-🔐 Role-based Access Control
+* 🎙️ Real-time Speech-to-Text Transcription
+* 🤖 AI-powered Automatic Question Generation
+* 📄 Multi-format Processing (Voice, Text & PDF)
+* 👨‍🏫 Teacher Dashboard & Student Portal
+* 📊 Classroom Participation Tracking
+* 🔐 Role-based Access Control
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
